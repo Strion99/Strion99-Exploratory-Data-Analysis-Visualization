@@ -1,7 +1,7 @@
 # Strion99-Exploratory-Data-Analysis-Visualization
 My first module focusing on the most critical step of any data project: Data Manipulation and Visualization. Using Python, Pandas, and Matplotlib, I built a workflow to process raw data and visualize the underlying distributions.
 
-During the course we will be using Python 3 (preferably Python ≥ 3.6). You are
+During the course we will be using Python 3. You are
 required to install the following packages:
 • Pandas
 • Numpy
